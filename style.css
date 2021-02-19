@@ -1,0 +1,63 @@
+.menu{
+   
+    display : flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display :flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.menu{
+display: flex;
+justify-content: space-between;
+background-color:rgb(142, 17, 167);
+padding:15px;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+color: #ffffff;
+
+}
+
+.title{
+
+    display: flex;
+    justify-content: center;
+}
+
+.grid img{
+
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+
+.origami{
+
+    border-radius: 20px;
+    background-color: rgb(245, 208, 222);
+    padding:30px;
+    margin:25px;
+    width:310px;
+    width: 500px;
+    font-family: fantasy;
+}
+
+
+.content{
+    border-radius: 20px;
+    background-color: rgb(8, 235, 76);
+    padding:30px;
+    margin:25px;
+    width:310px;
+    width: 500px;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    margin:0px;
+    background-color: rgb(22, 179, 179);
+}
+
+
